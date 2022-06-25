@@ -1,0 +1,61 @@
+.contentBox {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.mainTitle {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 16px;
+
+    color: #091133;
+}
+
+.mainText {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-bottom: 36px;
+
+    color: #6F7CB2;
+}
+
+.secondTextBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    text-align: center;
+    letter-spacing: 1px;
+
+    color: #222F65;
+}
+
+.mainPriceText {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-bottom: 60px;
+
+    color: #37447E;
+}
+
+.secondPriceText {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+
+    color: #5D6970;
+}

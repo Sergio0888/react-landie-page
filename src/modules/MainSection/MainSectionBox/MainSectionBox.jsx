@@ -1,6 +1,6 @@
 import styles from './mainsectionbox.module.css'
 import MainSectionText from '../MainSectionText/MainSectionText';
-import Button from '../../../shared/components/Button/Button'
+import Button from '../../../shared/components/Button/Button';
 
 const MainSectionBox = ({nameImage, btnActive}) => {
     return (

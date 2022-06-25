@@ -1,0 +1,24 @@
+.mainBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 40px;
+}
+
+.Copy {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #939EA4;
+}
+
+.line {
+    display: inline-block;
+    background: #CDD1D4;
+    height: 1px;
+    width: 100%;
+
+    margin-bottom: 20px;
+}

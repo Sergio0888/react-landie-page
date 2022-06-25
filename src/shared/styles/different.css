@@ -5,6 +5,39 @@
     background-repeat: no-repeat;
 }
 
+.mainSectionBtn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 40px;
+    
+    width: 150px;
+    height: 32px;
+}
+
+.priceSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Roboto', sans-serif;
+    height: 800px;
+    background-image: url(../../images/background_price_section.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer {
+    font-family: 'Roboto', sans-serif;
+    background: #E7ECFF;
+    height: 220px;
+    padding-top: 60px;
+}
+
+.footerMenu {
+    color: #929ECC;
+}
+
 .headerBtn {
     height: 36px;
     width: 189px;
@@ -14,19 +47,25 @@
     line-height: 26px;
 
     margin-right: 30px;
-  }
+}
 
-  .mainSectionBtn {
-    font-family: 'Roboto', sans-serif;
+.priceBtn {
+    height: 32px;
+    width: 189px;
+
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
-    margin-top: 40px;
+}
 
-    width: 150px;
-    height: 32px;
-  }
-  
+.footerBtn {
+    height: 26px;
+    width: 109px;
+
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
 
 .imageOne {
     background-image: url(../../images/section_one.png);

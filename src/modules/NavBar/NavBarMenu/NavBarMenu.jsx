@@ -1,10 +1,10 @@
 import PropTypes from 'prop-types';
 import styles from './nav-bar-menu.module.css';
 
-const NavBarMenu = ({ items }) => {
+const NavBarMenu = ({ items, newClass }) => {
   const listItems = items.map(({ id, text, link }) => (
     <li key={id} className={styles.item}>
-      <a className={styles.link} href={link}>
+      <a className={`${styles.link} ${newClass}`} href={link}>
         {text}
       </a>
     </li>
