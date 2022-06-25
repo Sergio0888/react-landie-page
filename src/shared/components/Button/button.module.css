@@ -1,0 +1,30 @@
+.darkBtn {
+  font-family: 'Roboto', sans-serif;
+  background-color: #111b47;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  padding: 4px 0;
+  width: 160px;
+  cursor: pointer;
+
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.lightBtn {
+  font-family: 'Roboto', sans-serif;
+  background-color: transparent;
+  color: #091133;
+  border: 2px solid #091133;
+  border-radius: 2px;
+  padding: 4px 0;
+  width: 160px;
+  cursor: pointer;
+
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+

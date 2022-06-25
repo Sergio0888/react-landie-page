@@ -1,0 +1,42 @@
+.mainContentBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 740px;
+}
+
+.backgroundImage {
+    background-image: url(../../images/main_section.png);
+    background-repeat: no-repeat;
+    background-position: right 0 top 70px;
+    background-size: inherit;
+    height: 740px;
+}
+
+.mainBox {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 80px;
+
+    display: flex;
+}
+.boxContent {
+    max-width: 255px;
+}
+
+.boxTitle {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 8px;
+
+    color: #091133;
+}
+
+.boxText {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-right: 30px;
+
+    color: #5D6970;
+}

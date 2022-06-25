@@ -1,0 +1,32 @@
+.header {
+    height: 1000px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 150px;
+}
+
+.headerContent {
+    max-width: 540px;
+}
+
+.headerTitle {
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    letter-spacing: 1px;
+
+    color: #091133;
+}
+
+.headerText {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+
+    color: #505F98;
+}
+
+.headerBtnBox {
+    display: flex;
+}

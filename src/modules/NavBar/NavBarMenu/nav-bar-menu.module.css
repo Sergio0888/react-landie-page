@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+}
+
+.item:not(:last-child) {
+  margin-right: 60px;
+}
+
+.link {
+  font-family: 'Roboto', sans-serif;
+  color: #505f98;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}

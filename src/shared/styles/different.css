@@ -1,0 +1,48 @@
+.headerSection{
+    background-image: url(../../images/header-back.png);
+    background-position: right 0 top -49px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.headerBtn {
+    height: 36px;
+    width: 189px;
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+    margin-right: 30px;
+  }
+
+  .mainSectionBtn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 40px;
+
+    width: 150px;
+    height: 32px;
+  }
+  
+
+.imageOne {
+    background-image: url(../../images/section_one.png);
+    background-repeat: no-repeat;
+    background-position: top 110px left 65px;
+    height: 570px;
+}
+.imageTwo {
+    background-image: url(../../images/section_two.png);
+    background-repeat: no-repeat;
+    background-position: top 110px left 65px;
+    height: 570px;
+}
+.imageThree {
+    background-image: url(../../images/section_three.png);
+    background-repeat: no-repeat;
+    background-position: top 110px left 65px;
+    height: 570px;
+}
