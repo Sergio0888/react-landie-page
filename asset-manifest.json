@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/react-landie-page/static/css/main.7148c596.css",
-    "main.js": "/react-landie-page/static/js/main.05322692.js",
+    "main.css": "/react-landie-page/static/css/main.daaf5b32.css",
+    "main.js": "/react-landie-page/static/js/main.f326dfeb.js",
     "static/media/header-back.png": "/react-landie-page/static/media/header-back.6401555ea3f1b17a7184.png",
     "static/media/section_two.png": "/react-landie-page/static/media/section_two.e568a381b008d24324c6.png",
     "static/media/section_three.png": "/react-landie-page/static/media/section_three.8f1f1126df0053346c47.png",
     "static/media/section_one.png": "/react-landie-page/static/media/section_one.0cf57d676cf7539d4051.png",
     "static/media/main_section.png": "/react-landie-page/static/media/main_section.a366b3138c7f33abbffb.png",
     "static/media/background_price_section.png": "/react-landie-page/static/media/background_price_section.d659afa5fb449d209eed.png",
+    "static/media/icon-main.svg": "/react-landie-page/static/media/icon-main.704f936407465429d8dc.svg",
+    "static/media/twitter.svg": "/react-landie-page/static/media/twitter.e5171022643b8b78df1c.svg",
     "index.html": "/react-landie-page/index.html",
-    "main.7148c596.css.map": "/react-landie-page/static/css/main.7148c596.css.map",
-    "main.05322692.js.map": "/react-landie-page/static/js/main.05322692.js.map"
+    "static/media/instagram.svg": "/react-landie-page/static/media/instagram.df637e71d622df78af74.svg",
+    "static/media/youtube.svg": "/react-landie-page/static/media/youtube.0cde131aef0c8cea5baa.svg",
+    "static/media/linkidIn.svg": "/react-landie-page/static/media/linkidIn.cbf74d8d3db654477bfe.svg",
+    "static/media/facebook.svg": "/react-landie-page/static/media/facebook.d0d95d6edc4e0e69ba93.svg",
+    "main.daaf5b32.css.map": "/react-landie-page/static/css/main.daaf5b32.css.map",
+    "main.f326dfeb.js.map": "/react-landie-page/static/js/main.f326dfeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7148c596.css",
-    "static/js/main.05322692.js"
+    "static/css/main.daaf5b32.css",
+    "static/js/main.f326dfeb.js"
   ]
 }
