@@ -3,6 +3,8 @@ import menu from '../../db/menu';
 import Button from '../../shared/components/Button/Button';
 import Logo from '../../shared/components/Logo/Logo';
 import NavBarMenu from '../NavBar/NavBarMenu/NavBarMenu';
+import Socials from '../../shared/components/Socials/Socails'
+
 
 const Footer = () => {
     return (
@@ -15,6 +17,7 @@ const Footer = () => {
             <span className={styles.line}></span>
             <div className={styles.footerMenu}>
             <NavBarMenu items={menu} newClass="footerMenu"/>
+            <Socials />
             </div>
         </div>
     );
