@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-landie-page/static/css/main.daaf5b32.css",
-    "main.js": "/react-landie-page/static/js/main.f326dfeb.js",
+    "main.js": "/react-landie-page/static/js/main.c48cb1f2.js",
     "static/media/header-back.png": "/react-landie-page/static/media/header-back.6401555ea3f1b17a7184.png",
     "static/media/section_two.png": "/react-landie-page/static/media/section_two.e568a381b008d24324c6.png",
     "static/media/section_three.png": "/react-landie-page/static/media/section_three.8f1f1126df0053346c47.png",
@@ -16,10 +16,10 @@
     "static/media/linkidIn.svg": "/react-landie-page/static/media/linkidIn.cbf74d8d3db654477bfe.svg",
     "static/media/facebook.svg": "/react-landie-page/static/media/facebook.d0d95d6edc4e0e69ba93.svg",
     "main.daaf5b32.css.map": "/react-landie-page/static/css/main.daaf5b32.css.map",
-    "main.f326dfeb.js.map": "/react-landie-page/static/js/main.f326dfeb.js.map"
+    "main.c48cb1f2.js.map": "/react-landie-page/static/js/main.c48cb1f2.js.map"
   },
   "entrypoints": [
     "static/css/main.daaf5b32.css",
-    "static/js/main.f326dfeb.js"
+    "static/js/main.c48cb1f2.js"
   ]
 }
