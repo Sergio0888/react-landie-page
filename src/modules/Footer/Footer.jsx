@@ -6,11 +6,11 @@ import NavBarMenu from '../NavBar/NavBarMenu/NavBarMenu';
 import Socials from '../../shared/components/Socials/Socails'
 
 
-const Footer = () => {
+const Footer = ({copyText}) => {
     return (
         <div className='container'>
             <div className={styles.mainBox}>
-                <p className={styles.Copy}>©2020 Yourcompany</p>
+                <p className={styles.Copy}>{copyText}</p>
                 <Logo />
                 <Button text="Purchase now" newClass="footerBtn" />
             </div>
